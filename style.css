@@ -1,0 +1,11 @@
+h1{
+    color: rebeccapurple;
+}
+
+noodleBtn,burgerBtn,SandwichBtn {
+    background-color: blue;
+}
+
+text{
+    width: 150px;
+}
